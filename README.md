@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Domenico!
-<img src="https://media.tenor.com/nxKfohkvYrIAAAAM/computer-cat.gif" alt="Funny cat" style="width: 100%;" />
+<img src="https://images.squarespace-cdn.com/content/v1/5b7bbb93b27e3939ab06ae13/1555789472875-5T2VWRPLAOWWADYLYR34/pem1.gif" alt="Funny cat" style="width: 100%;" />
 
 🎓 I'm a Computer Engineering student at the University of Salerno, currently in my third year of the Bachelor’s degree.
 
@@ -34,8 +34,8 @@ Check out my repositories for more projects and experiments!
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=domenicodimarino&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="domenicodimarino's Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=domenicodimarino&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="domenicodimarino's Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=domenicodimarino&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&width=800" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=domenicodimarino&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&width=400" height="200"/>
 </p>
 
 ## ⚡ Fun Fact
