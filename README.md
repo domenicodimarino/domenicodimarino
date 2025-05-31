@@ -34,8 +34,8 @@ Check out my repositories for more projects and experiments!
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=domenicodimarino&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&width=800" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=domenicodimarino&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&width=400" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=domenicodimarino&theme=gotham&show_icons=true&hide_border=true&count_private=false" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=domenicodimarino&theme=gotham&show_icons=true&hide_border=true&layout=compact" height="180"/>
 </div>
 
 ## ⚡ Fun Fact
