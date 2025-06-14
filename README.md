@@ -23,6 +23,10 @@
   _Course: Mobile Programming_  
   An app inspired by Letterboxd, to track TV series and episodes watched, allowing users to add their own series.
 
+- **[🎮 Wordageddon](https://github.com/domenicodimarino/wordageddonG3)**  
+  _Course: Advanced Java Programming_  
+  A game developed in Java that displays documents (in Italian or English) and asks questions about the occurrences (number), presence, or absence of specific words within these documents.
+
 Check out my repositories for more projects and experiments!
 
 ## 💡 Skills
