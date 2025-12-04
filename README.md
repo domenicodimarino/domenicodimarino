@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Domenico!
 <img src="https://images.squarespace-cdn.com/content/v1/5b7bbb93b27e3939ab06ae13/1555789472875-5T2VWRPLAOWWADYLYR34/pem1.gif" alt="Funny cat" style="width: 100%;" />
 
-🎓 I'm a Computer Engineering student at the University of Salerno, currently in my third year of the Bachelor’s degree.
+🎓 I'm a **first-year MSc Student in Computer Engineering** at the University of Salerno.
 
 ## 🚀 About Me
 
@@ -34,13 +34,6 @@ Check out my repositories for more projects and experiments!
 - **Languages:** C, Java, SQL, HTML, CSS, PHP, JavaScript, Dart
 - **Automation:** Ladder, SFC
 - **Tools:** JavaFX, Bash, Git
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=domenicodimarino&theme=gotham&show_icons=true&hide_border=true&count_private=false" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=domenicodimarino&theme=gotham&show_icons=true&hide_border=true&layout=compact" height="180"/>
-</div>
 
 ## ⚡ Fun Fact
 
